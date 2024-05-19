@@ -28,6 +28,16 @@ body {
     font-size: 10pt;
 }
 
+/* button {
+    height: 45px;
+    width: 45px;
+    border-radius: 100px;
+    border: none;
+    margin-left: 15px;
+    margin-top: 4px;
+
+} */
+
 .search-button {
     height: 45px;
     border-radius: 100px;
@@ -62,6 +72,7 @@ body {
     font-size: 25pt;
 
 }
+
 
 .details {
     margin-top: 40px;
