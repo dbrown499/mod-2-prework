@@ -57,6 +57,7 @@ body {
 }
 
 .weather {
+    /* display: none; */
     /* border: solid 1px red; */
     text-align: center;
 }
