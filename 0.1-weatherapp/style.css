@@ -26,6 +26,7 @@ body {
     padding: 15px 20px;
     width: 200px;
     font-size: 10pt;
+    outline: none;
 }
 
 /* button {
@@ -37,12 +38,18 @@ body {
     margin-top: 4px;
 
 } */
-
-.search-button {
+.circle-around-search-icon{
     height: 45px;
+    width: 45px;
+    background-color: white;
     border-radius: 100px;
     margin-left: 15px;
     margin-top: 4px;
+    border: 0cap;
+}
+.search-button {
+    height: 30px;
+    margin-top: 4px; 
 }
 
 .search-button:hover {
